@@ -1,6 +1,16 @@
 
 
+# aviso-cigarros
 
+
+
+Aviso para los nuevos avisos para venta de cigarros sueltos en Tlaxcala De Xicoténcatlcantl
+
+
+---------
+
+
+```
 /tiendita/
 ├─ index.html        ← frontend público (clientes)
 ├─ admin.html        ← vista privada (tienda)
@@ -14,17 +24,7 @@
 └─ css/
     └─ style.css
 
-
-
-# aviso-cigarros
-
-
-
-Aviso para los nuevos avisos para venta de cigarros sueltos en Tlaxcala De Xicoténcatlcantl
-
-
----------
-
+```
 
 
 Sí — **sí hay regulación vigente que prohíbe la venta de cigarros sueltos en Tlaxcala (y en todo México)**, pero **no es exactamente una “nueva ley local” de Tlaxcala de Xicoténcatl**, sino **la aplicación de la Ley General para el Control del Tabaco (federal)** y sus reglamentos, que el estado también debe respetar y hacer cumplir.
