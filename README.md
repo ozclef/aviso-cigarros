@@ -1,6 +1,21 @@
 
 
 
+/tiendita/
+├─ index.html        ← frontend público (clientes)
+├─ admin.html        ← vista privada (tienda)
+├─ login.html        ← acceso simple
+├─ data/
+│   └─ aviso.json    ← info legal editable
+├─ js/
+│   ├─ auth.js
+│   ├─ aviso.js
+│   └─ storage.js
+└─ css/
+    └─ style.css
+
+
+
 # aviso-cigarros
 
 
